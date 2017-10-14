@@ -1,0 +1,12 @@
+insert 1023 0 DC
+insert 0 0 BB
+insert 0 1023 RICH
+insert 1023 1023 BERLIN
+print
+remove DC
+remove BB
+remove RICH
+remove BERLIN
+print
+insert 500 500 RH
+print

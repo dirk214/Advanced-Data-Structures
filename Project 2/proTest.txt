@@ -1,0 +1,23 @@
+insert 
+insert 90 100 DC
+insert 100 200 adsfdsfsddjhfdsjkfhskjdfhskdhfskjdhfsjkdfhskdjfhskjdfhskdjfhskjdfhskjdhfskjdhfskjdhfskjdhfksjdhfskjdhfksjdhfkjshdfkjsdhfksjdhfksjdhfksdhfkjsdhfkjsdhfkjsdhfksjdhfskjdfhskjdfhskjdhfskjdhfkjsdhfkjsdhfkjshdfkjsdhfkjshdfkjshdfkjshdfjkhsdkjfhskjdfhskjdhfkjsdhfkjsdhfkjsdhfkjsdhfkjsdhfkjshdfkjshdfkjshdfjkshdfkjshdfkjsdhfsdkjfhskjdfhsjdsfjsdjsdhfsdfhsdhsdshdfjsfdhdfhsdhjsdf
+remove RICHMOND
+remove DC
+insert 100 400 BERLIN
+remove 300 300
+remove 100 400
+insert 500 500 Blacksburg
+find BlacksVille
+find Blacksburg
+find 500 500
+find 300 87
+find Blacksburg 500 500
+regionsearch 400 200 400 250
+regionsearch 20
+regionsearch 40000 40000 40000 40000
+hashtable
+freelist
+
+print
+I Hope I can finish this...
+insert 2000 2000 OUB

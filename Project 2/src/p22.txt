@@ -1,0 +1,5 @@
+insert 500 400 DC
+insert 500 600 Blacksburg
+insert 600 400 RR
+insert 600 800 GG
+print

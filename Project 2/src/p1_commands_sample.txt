@@ -1,0 +1,12 @@
+insert 37 80 Blacksburg
+insert 38 122 San_Francisco
+insert 41 96 Omaha
+print
+remove San_Francisco
+print Blacksburg
+print San_Francisco
+remove San_Francisco
+print
+
+I am the very model of a modern Major-General
+insert 53 4 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch_Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
