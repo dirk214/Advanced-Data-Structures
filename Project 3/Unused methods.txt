@@ -1,0 +1,46 @@
+/**
+     * Inserts a record(set of bytes) into the heap.
+     * @param bytes The record to insert into the heap.
+     * @throws IOException If problem with File is encounterd.
+     */
+    public void insert(byte[] bytes) throws IOException {
+        long temp = number++;
+        pool.setTheRecord(bytes,  temp);
+        while ((temp != 0) && (pool.getHandleRequest(temp) > 
+            (pool.getHandleRequest(parent(temp))))) {
+            swapNumbers(temp, parent(temp));
+            temp = parent(temp);
+        }
+    }
+    
+
+    /**
+     * Sets the bytes array stored in the Buffer.
+     * @param bytes The new bytes array stored in the Buffer.
+     */
+    public void setBytes(byte[] bytes) {
+        this.bytes = bytes;
+    }
+
+
+if (returner < 0) 
+            System.out.println("Short was negative " + returner);
+
+
+    /**
+     * Returns the location of the elements right child.
+     * @param i The location of the element to check.
+     * @return The location of the elements right child.
+     */
+    public long rightChild(long i) {
+        return 2 * i + 2;
+    }
+    
+    /**
+     * Returns the position of the elements parent.
+     * @param i The elements position to check.
+     * @return The position of the elements parent.
+     */
+    public long parent(long i) {
+        return (i - 1) / 2;
+    }

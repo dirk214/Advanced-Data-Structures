@@ -1,0 +1,42 @@
+------  STATS ------
+File name: p3_input_sample.bin
+Cache Hits: 357524
+Cache Misses: 6
+Disk Reads: 6
+Disk Writes: 4
+Time to Sort: 15
+------  STATS ------
+File name: p3_input_sample.bin
+Cache Hits: 374782
+Cache Misses: 6
+Disk Reads: 6
+Disk Writes: 4
+Time to Sort: 17
+------  STATS ------
+File name: p3_input_sample.bin
+Cache Hits: 362861
+Cache Misses: 11927
+Disk Reads: 11927
+Disk Writes: 11862
+Time to Sort: 136
+------  STATS ------
+File name: p3_input_sample.bin
+Cache Hits: 357524
+Cache Misses: 4
+Disk Reads: 4
+Disk Writes: 4
+Time to Sort: 17
+------  STATS ------
+File name: p3_input_sample.bin
+Cache Hits: 357524
+Cache Misses: 6
+Disk Reads: 6
+Disk Writes: 4
+Time to Sort: 16
+------  STATS ------
+File name: p3_input_sample.bin
+Cache Hits: 374782
+Cache Misses: 4
+Disk Reads: 4
+Disk Writes: 4
+Time to Sort: 18

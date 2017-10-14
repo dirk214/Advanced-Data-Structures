@@ -1,0 +1,7 @@
+------  STATS ------
+File name: p3_input_sample.bin
+Cache Hits: 348783
+Cache Misses: 8745
+Disk Reads: 8745
+Disk Writes: 8202
+Time to Sort: 125
